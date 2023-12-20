@@ -1,6 +1,6 @@
 {
   "name": "react-native-foreground-service-update",
-  "version": "3.0.3",
+  "version": "3.0.4",
   "description": "React native module to start foreground service on android (fork from voximplant to fix issues)",
   "main": "index.js",
   "scripts": {},
